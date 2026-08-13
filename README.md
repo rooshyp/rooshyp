@@ -1,3 +1,3 @@
 # Aarush Parekh
 
-Hello, my name is Aarush.
+Hello, I’m Aarush. I build useful products for businesses by integrating artificial intelligence.
