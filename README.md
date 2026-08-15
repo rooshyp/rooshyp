@@ -1,5 +1,20 @@
-Hello, I’m Aarush. I use GitHub to build useful products for businesses and consumers while integrating artificial intelligence.
+# Aarush Parekh
 
----
+I build practical software for product, operations, and growth teams, with a focus on explainable AI and clear decision support.
 
-[aarushcparekh@gmail.com](mailto:aarushcparekh@gmail.com) · [acparekh@ucsc.edu](mailto:acparekh@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/aarush-parekh-517a4a286/) · [Instagram](https://www.instagram.com/aarush.parekh/)
+## Selected projects
+
+- [ChurnLab](https://github.com/rooshyp/churnlab) — Explainable churn risk, revenue exposure, and prioritized retention actions.
+- [PricePilot](https://github.com/rooshyp/pricepilot) — Pricing intelligence for product catalog decisions.
+- [ScopeGuard](https://github.com/rooshyp/scopeguard) — A conservative SOW scope checker and client reply assistant for freelancers.
+- [OSS Triage Copilot](https://github.com/rooshyp/oss-triage-copilot) — Retrieval-grounded issue triage for duplicate and rejected-idea detection.
+- [SupplyMize](https://github.com/rooshyp/supplymize) — Demand forecasting and carbon-aware supply chain optimization.
+- [PM Signal Tracker](https://github.com/rooshyp/pm-signal-tracker) — SQL-powered prioritization for product feedback.
+
+## Interests
+
+Product analytics · Explainable AI · Retrieval-grounded systems · Decision-support tools
+
+## Connect
+
+[Personal email](mailto:aarushcparekh@gmail.com) · [UCSC email](mailto:acparekh@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/aarush-parekh-517a4a286/) · [Instagram](https://www.instagram.com/aarush.parekh/)
