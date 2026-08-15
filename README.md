@@ -7,6 +7,7 @@ I build practical software for product, operations, and growth teams, with a foc
 - [ChurnLab](https://github.com/rooshyp/churnlab) — Explainable churn risk, revenue exposure, and prioritized retention actions.
 - [PricePilot](https://github.com/rooshyp/pricepilot) — Pricing intelligence for product catalog decisions.
 - [ScopeGuard](https://github.com/rooshyp/scopeguard) — A conservative SOW scope checker and client reply assistant for freelancers.
+- [OSS Triage Copilot](https://github.com/rooshyp/oss-triage-copilot) — Retrieval-grounded issue triage for duplicate and rejected-idea detection.
 
 ---
 
