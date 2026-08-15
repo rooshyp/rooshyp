@@ -13,7 +13,7 @@ I build practical software for product, operations, and growth teams, with a foc
 
 ## Interests
 
-Product analytics · Explainable AI
+Product analytics · Explainable AI · Retrieval-grounded systems · Decision-support tools
 
 ---
 
