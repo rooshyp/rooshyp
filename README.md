@@ -1,3 +1,5 @@
+# Aarush Parekh
+
 Hello, I’m Aarush. I use GitHub to build useful products for businesses and consumers while integrating artificial intelligence.
 
 ---
