@@ -1,6 +1,6 @@
 # Aarush Parekh
 
-Hello, I’m Aarush. I use GitHub to build useful products for businesses and consumers while integrating artificial intelligence.
+I build practical software for product, operations, and growth teams, with a focus on explainable AI and clear decision support.
 
 ---
 
