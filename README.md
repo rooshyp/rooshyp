@@ -15,6 +15,6 @@ I build practical software for product, operations, and growth teams, with a foc
 
 Product analytics · Explainable AI · Retrieval-grounded systems · Decision-support tools
 
----
+## Connect
 
 [aarushcparekh@gmail.com](mailto:aarushcparekh@gmail.com) · [acparekh@ucsc.edu](mailto:acparekh@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/aarush-parekh-517a4a286/) · [Instagram](https://www.instagram.com/aarush.parekh/)
