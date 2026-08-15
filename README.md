@@ -5,6 +5,7 @@ I build practical software for product, operations, and growth teams, with a foc
 ## Selected projects
 
 - [ChurnLab](https://github.com/rooshyp/churnlab) — Explainable churn risk, revenue exposure, and prioritized retention actions.
+- [PricePilot](https://github.com/rooshyp/pricepilot) — Pricing intelligence for product catalog decisions.
 
 ---
 
