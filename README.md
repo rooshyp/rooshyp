@@ -11,6 +11,10 @@ I build practical software for product, operations, and growth teams, with a foc
 - [Supplymize](https://github.com/rooshyp/supplymize) — Demand forecasting and carbon-aware supply chain optimization.
 - [PM Signal Tracker](https://github.com/rooshyp/pm-signal-tracker) — SQL-powered prioritization for product feedback.
 
+## Interests
+
+Product analytics · Explainable AI
+
 ---
 
 [aarushcparekh@gmail.com](mailto:aarushcparekh@gmail.com) · [acparekh@ucsc.edu](mailto:acparekh@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/aarush-parekh-517a4a286/) · [Instagram](https://www.instagram.com/aarush.parekh/)
