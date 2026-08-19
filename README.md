@@ -1,4 +1,4 @@
-Hello, I use GitHub to build useful products for businesses and consumers while integrating artificial intelligence.
+Hello, I'm I use GitHub to build useful products for businesses and consumers while integrating artificial intelligence.
 
 ---
 
